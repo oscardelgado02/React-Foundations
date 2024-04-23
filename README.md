@@ -1,7 +1,7 @@
 # React Foundations
  Self-learning project to gain knowledge about React basics.
 
-### [Link of the course I followed](https://nextjs.org/learn/react-foundations)
+### [Link to the course I followed](https://nextjs.org/learn/react-foundations)
 
 ## Interesting topics from the course:
 - [Setting Up React](https://nextjs.org/learn/react-foundations/getting-started-with-react)
